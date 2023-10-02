@@ -1,4 +1,4 @@
-### Hello everyone! I'm Juliana Cruz Dev Front-End e Ux Designer 👋
+### Hello everyone! I'm Juliana Cruz Front End Developer e Ux Designer 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
