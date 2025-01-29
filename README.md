@@ -1,4 +1,4 @@
-### Hello everyone! I'm Juliana Cruz Dev Jr! 👋
+### Hello everyone! I'm Juliana Cruz Junior Developer! 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
